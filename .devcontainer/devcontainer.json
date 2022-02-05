@@ -1,4 +1,4 @@
-// Devcontainer config inspired by Team 2202 https://github.com/2202Programming/FRC2022/blob/main/.devcontainer/devcontainer.json
+// Devcontainer config inspired by team 2202 https://github.com/2202Programming/FRC2022/blob/main/.devcontainer/devcontainer.json
 {
   "name":"FRC Java Development",
   "workspaceMount": "source=${localWorkspaceFolder},target=/root/workspace,type=bind,consistency=cached",
