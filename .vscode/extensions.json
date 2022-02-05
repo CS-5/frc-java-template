@@ -1,5 +1,9 @@
 {
   "recommendations": [
+    "redhat.java",
+    "ms-vscode.cpptools",
+    "vscjava.vscode-java-pack",
+    "wpilibsuite.vscode-wpilib",
     "richardwillis.vscode-spotless-gradle"
   ]
 }
