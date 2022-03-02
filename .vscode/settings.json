@@ -32,11 +32,12 @@
   "workbench.colorCustomizations": {
     "activityBarBadge.background": "#FACC15",
     "activityBarBadge.foreground": "#4B5563",
-    "statusBar.background": "#4B5563",
+    "statusBar.background": "#171717",
     "statusBarItem.remoteBackground": "#FACC15",
     "statusBarItem.remoteForeground": "#4B5563",
     "button.background": "#FACC15",
     "button.foreground": "#4B5563",
     "focusBorder": "#FACC15",
+    "activityBar.background": "#171717"
   }
 }
