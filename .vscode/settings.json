@@ -26,5 +26,17 @@
     },
   ],
   "java.test.defaultConfig": "WPIlibUnitTests",
-  "spotlessGradle.format.enable": true
+  "spotlessGradle.format.enable": true,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.colorCustomizations": {
+    "activityBarBadge.background": "#FACC15",
+    "activityBarBadge.foreground": "#4B5563",
+    "statusBar.background": "#4B5563",
+    "statusBarItem.remoteBackground": "#FACC15",
+    "statusBarItem.remoteForeground": "#4B5563",
+    "button.background": "#FACC15",
+    "button.foreground": "#4B5563",
+    "button.secondaryBackground": "#14AB4C",
+    "focusBorder": "#FACC15",
+  }
 }

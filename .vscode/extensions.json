@@ -4,6 +4,8 @@
     "ms-vscode.cpptools",
     "vscjava.vscode-java-pack",
     "wpilibsuite.vscode-wpilib",
-    "richardwillis.vscode-spotless-gradle"
+    "richardwillis.vscode-spotless-gradle",
+    "2gua.rainbow-brackets",
+    "zhuangtongfa.material-theme"
   ]
 }
