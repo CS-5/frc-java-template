@@ -37,7 +37,6 @@
     "statusBarItem.remoteForeground": "#4B5563",
     "button.background": "#FACC15",
     "button.foreground": "#4B5563",
-    "button.secondaryBackground": "#14AB4C",
     "focusBorder": "#FACC15",
   }
 }
