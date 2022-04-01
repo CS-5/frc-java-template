@@ -5,13 +5,14 @@
   "workspaceFolder": "/root/workspace",
   "image": "wpilib/roborio-cross-ubuntu:2022-18.04",
   "extensions": [
-    "redhat.java",
-    "vscjava.vscode-gradle",
-    "ms-vscode.cpptools",
-    "vscjava.vscode-java-pack",
-    "wpilibsuite.vscode-wpilib",
-    "richardwillis.vscode-spotless-gradle",
-    "2gua.rainbow-brackets",
-    "zhuangtongfa.material-theme"
-  ]
+	"redhat.java",
+	"vscjava.vscode-gradle",
+	"ms-vscode.cpptools",
+	"vscjava.vscode-java-pack",
+	"wpilibsuite.vscode-wpilib",
+	"richardwillis.vscode-spotless-gradle",
+	"2gua.rainbow-brackets",
+	"zhuangtongfa.material-theme",
+	"aaron-bond.better-comments"
+]
 }

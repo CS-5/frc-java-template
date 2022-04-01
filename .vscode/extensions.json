@@ -6,6 +6,7 @@
     "wpilibsuite.vscode-wpilib",
     "richardwillis.vscode-spotless-gradle",
     "2gua.rainbow-brackets",
-    "zhuangtongfa.material-theme"
-  ]
+    "zhuangtongfa.material-theme",
+    "aaron-bond.better-comments"
+]
 }
