@@ -2,12 +2,14 @@ plugins {
     id "java"
     id "edu.wpi.first.GradleRIO" version "2022.3.1"
     id "com.diffplug.spotless" version "6.1.0"
+    id "idea"
+    id "eclipse"
 }
 
 sourceCompatibility = JavaVersion.VERSION_11
 targetCompatibility = JavaVersion.VERSION_11
 
-def ROBOT_MAIN_CLASS = "frc.robot.Main"
+def ROBOT_MAIN_CLASS = "org.biohazard4050.frc2022.Main"
 
 // Define my targets (RoboRIO) and artifacts (deployable files)
 // This is added by GradleRIO's backing project DeployUtils.
