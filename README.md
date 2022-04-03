@@ -3,7 +3,7 @@ Template repository for FIRST Robotics Competition Java codebases, developed for
 
 # Getting started
 
-## Development 
+## Development
 
 This repository is designed to be used 1 of 2 ways:
 
@@ -24,8 +24,6 @@ Both have pros and cons, detailed below, but TLDR: If you are planning on doing 
 | Driver Station | ❌ | ✅ |
 | Pre-configured Dev Environment | ✅ | ❌ |
 
-## Structure 
+## Structure
 
 `//TODO`
-
-
