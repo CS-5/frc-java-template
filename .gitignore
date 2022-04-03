@@ -1,5 +1,7 @@
 # .gitignore based on team 2022's https://github.com/2202Programming/FRC2022/blob/main/.gitignore
 
+.examples
+
 ### Java ###
 # Compiled class file
 *.class
