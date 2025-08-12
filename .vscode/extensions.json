@@ -1,12 +1,10 @@
 {
   "recommendations": [
-    "redhat.java",
+    "aaron-bond.better-comments",
+    "esbenp.prettier-vscode",
     "ms-vscode.cpptools",
-    "vscjava.vscode-java-pack",
-    "wpilibsuite.vscode-wpilib",
+    "redhat.java",
     "richardwillis.vscode-spotless-gradle",
-    "2gua.rainbow-brackets",
-    "zhuangtongfa.material-theme",
-    "aaron-bond.better-comments"
-]
+    "vscjava.vscode-java-pack"
+  ]
 }
