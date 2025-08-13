@@ -21,7 +21,7 @@
   "editor.tabSize": 2,
   "java.format.enabled": false,
   "files.trimTrailingWhitespace": false,
-  "spotlessGradle.diagnostics.enable": true,
+  "spotlessGradle.diagnostics.enable": false,
   "spotlessGradle.format.enable": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.spotlessGradle": "explicit",
